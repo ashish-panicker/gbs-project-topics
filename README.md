@@ -11,6 +11,14 @@ Each project group will have three memebers. You have to complete the project wi
 4. Java with Spring Boot framewrok must be used for the project.
 5. The final presentation must have a working demo of the project along with the necessary presentations and documentation.
 
+## Technology requirements
+
+1. Java
+2. Spring Boot
+3. REST API
+4. Microservices
+5. Spring Data JPA
+
 ## Project Topics
 
  1. [Indie Crafts](INDIE-CRAFTS.md)
