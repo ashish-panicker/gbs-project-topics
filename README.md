@@ -23,6 +23,6 @@ Each project group will have three memebers. You have to complete the project wi
 
  1. [Indie Crafts](INDIE-CRAFTS.md)
  2. [Quick Bytes](QUICK-BYTES.md)
- 3. [Tasty Home Meals](TASTY-HOME-MEALS.md)
+ 3. [Tasty Home Meals](TASTY-HOME-MEAL.md)
 
 Please click on the correct project topic for more information.
